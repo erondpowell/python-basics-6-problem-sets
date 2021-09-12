@@ -1,4 +1,4 @@
-# Programs from MITx 6.00.1 and 6.00.2 coursework.
+# Problems from MITx 6.00.1 coursework.
 
 These problem sets were presented to students in case-study format.
 In certain sets, like pset-4, helper code was provided by instructors.
