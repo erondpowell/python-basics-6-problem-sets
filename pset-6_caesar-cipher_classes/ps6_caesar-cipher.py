@@ -254,5 +254,3 @@ print('cipherText Actual Output:', ciphertext.decrypt_message())
 testText = CiphertextMessage(get_story_string())
 print(testText.decrypt_message())
 
-
-
