@@ -7,7 +7,7 @@ The actual programming is left to the students.
 
 
 ## pset-1: Control Operators and Iterables.
-Task: Write logic that iterates through a string and prints the longest substring of alphabetically ordered characters. (example: it should print abcd from 'zyxabcdaa')
+Task: Write logic that iterates through a string and prints the longest substring of alphabetically ordered characters.
 
 ## pset-2: Bisectional Search
 Task: Write Logic that prompts user to enter a number, and then let the "computer" attempt to guess.
