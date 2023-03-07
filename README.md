@@ -15,7 +15,7 @@ Task: Write Logic that prompts user to enter a number, and then let the "compute
 ## pset-3: Functional Programming
 Task: Write a program that imports vocab from a CSV and randomly selects a word to play the game hangman against the computer.
 
-## pset-4: More functional Programming
+## pset-4: More Functional Programming
 Task: Build a version of scrabble to let a human play alone then another to play against the computer.
 
 ## pset-5: Not Saved.
