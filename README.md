@@ -9,16 +9,16 @@ The actual programming is left to the students.
 ## pset-1: Control Operators and Iterables.
 Task: Write logic that iterates through a string and prints the longest substring of alphabetically ordered characters. (example: it should print abcd from 'zyxabcdaa')
 
-## pset-2: Number Guessing Game - Bisectional Search
+## pset-2: Bisectional Search
 Task: Write Logic that prompts user to enter a number, and then let the "computer" attempt to guess.
 
-## pset-3: Hangman - Functional Programming
+## pset-3: Functional Programming
 Task: Write a program that imports vocab from a CSV and randomly selects a word to play the game hangman against the computer.
 
-## pset-4: Scrabble - More functional Programming
+## pset-4: More functional Programming
 Task: Build a version of scrabble to let a human play alone then another to play against the computer.
 
 ## pset-5: Not Saved.
 
-## pset-6: caesar cipher
+## pset-6: Classes
 Task: Use classes to build a caesar-cipher object which can encrypt and decrypt a stored message.
