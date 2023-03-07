@@ -18,7 +18,7 @@ Task: Write a program that imports vocab from a CSV and randomly selects a word 
 ## pset-4: Scrabble - More functional Programming
 Task: Build a version of scrabble to let a human play alone then another to play against the computer.
 
-## pset-5: Not saved.
+## pset-5: Not Saved.
 
 ## pset-6: caesar cipher
 Task: Use classes to build a caesar-cipher object which can encrypt and decrypt a stored message.
